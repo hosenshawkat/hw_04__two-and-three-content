@@ -1,0 +1,51 @@
+.header{
+	
+	min-height: 100px;
+	color: black;
+	background-color: red;
+	text-align: center;
+}
+.wrapper{
+	overflow: hidden;
+
+	
+}
+.blog{
+	min-height: 150px;
+	background-color: green;
+	width: 70%;
+	float: left;
+	text-align: center;
+}
+.contact{
+	min-height: 150px;
+	background-color: yellow;
+	width: 30%;
+	float: right;
+	text-align: center;		
+}
+.footer{
+	min-height: 100px;
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+.single{
+	min-height: 150px;
+	width: 33%;
+	float: left;
+	border: 2px solid teal;
+}
+.yellow{
+	background-color: yellow;
+}
+.blue{
+	background-color: blue;
+}
+.teal{
+	background-color: teal;
+}
+h1{
+	text-align: center;
+}
